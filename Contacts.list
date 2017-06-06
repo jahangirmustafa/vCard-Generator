@@ -1,0 +1,56 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Contacts</key>
+    <array>
+      <dict>
+        <key>Id</key>
+        <integer>1</integer>
+        <key>GivenName</key>
+        <string>A</string>
+        <key>MiddleName</key>
+        <string>R</string>
+        <key>FamilyName</key>
+        <string>Electric</string>
+        <key>FullName</key>
+        <string>A R Electric</string>
+        <key>Favorited</key>
+        <false />
+        <key>Groups</key>
+        <array />
+        <key>Emails</key>
+        <array />
+        <key>PhoneNumbers</key>
+        <array>
+          <dict>
+            <key>Value</key>
+            <string>+92323232323</string>
+            <key>Primary</key>
+            <integer>0</integer>
+            <key>Name</key>
+            <string>2</string>
+            <key>Id</key>
+            <integer>0</integer>
+          </dict>
+        </array>
+        <key>IMAddresses</key>
+        <array />
+        <key>Addresses</key>
+        <array />
+        <key>Organizations</key>
+        <array />
+        <key>Websites</key>
+        <array />
+        <key>NickNames</key>
+        <array />
+        <key>Notes</key>
+        <array />
+        <key>Sips</key>
+        <array />
+        <key>Dates</key>
+        <array />
+      </dict>
+      
+    </array>
+  </dict>
+</plist>
